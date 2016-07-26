@@ -1,6 +1,6 @@
 //= require jquery.slimscroll/jquery.slimscroll
 //= require jquery-colorbox
-//= require favico.js
+//= require favico.js/favico.js
 //= require jquery-fullscreen-plugin
 //= require diaspora_jsxc
 
