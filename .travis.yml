@@ -18,9 +18,7 @@ cache:
 
 branches:
   only:
-    - 'master'
-    - 'stable'
-    - 'develop'
+    - 'debian_branch'
 
 before_install: gem install bundler
 bundler_args: "--without development production heroku --jobs 3 --retry 3"
